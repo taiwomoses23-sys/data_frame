@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Executables
+*.exe
+*.dll
+
+# VSCode
+*.pub
+
+# OS files
+.DS_Store
+gitignore
+*.lnk
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# VSCode
+.idea/.gitignore
+*.xml
+PyCharmMiscProject.iml
+
+# executables
+*.exe
+
+# OS
+.DS_Store
