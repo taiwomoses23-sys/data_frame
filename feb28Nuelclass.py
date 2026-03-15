@@ -72,3 +72,11 @@ print(smile * 5)
 number = "5"
 print(number.zfill(5))
 
+username = "moses"
+password = "taiwo"
+user_info = f"my username is {username} and my password is {password}"
+print(user_info)
+print(username.upper())
+print(username.lower())
+print(username.title())
+
